@@ -154,3 +154,12 @@ h1{
     grid-column:auto;
   }
 }
+.flower-divider{
+    margin:20px 0 26px;
+    text-align:center;
+}
+
+.flower-divider img{
+    width:220px;
+    max-width:70%;
+    height:auto;

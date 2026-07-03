@@ -155,10 +155,14 @@ h1{
   }
 }
 .flower-divider{
-    margin:20px 0 26px;
     text-align:center;
+    margin:12px 0 14px;
 }
 
 .flower-divider img{
-    width:120px;
+    width:120px !important;
+    max-width:120px !important;
+    display:block;
+    margin:0 auto;
     height:auto;
+}
